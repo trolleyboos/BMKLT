@@ -5,7 +5,7 @@
 We have released BMKLT LITE which you can access here: lite.svcs.ga
 </details>
 <details open>
-<summary> # [LIMITED] Ingot (LTBEEF)</summary>
+<summary>[LIMITED, Until 2/3/2023] Ingot (LTBEEF)</summary>
 <br>
 Access INGOT (LTBEEF)
 </details>
