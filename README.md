@@ -1,4 +1,4 @@
-# Greetings from the BMKLT team!
+# We have released BMKLT LITE! Check it out below!
 <details open>
 <summary>BMKLT Lite information</summary>
 <br>
