@@ -2,8 +2,10 @@
 <details open>
 <summary>BMKLT Lite information</summary>
 <br>
-We have released BMKLT LITE which you can access here: ()
+We have released BMKLT LITE which you can access here: lite.svcs.ga
 </details>
-```
-javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
-```
+<details open>
+<summary> # [LIMITED] Ingot (LTBEEF)</summary>
+<br>
+Access INGOT (LTBEEF)
+</details>
