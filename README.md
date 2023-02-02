@@ -8,9 +8,6 @@ We have released BMKLT LITE which you can access here: lite.svcs.ga
 <summary>**[LIMITED, Until 2/3/2023]** Ingot (LTBEEF)</summary>
 <br>
 Access INGOT (LTBEEF)
-  
+  https://raw.svcs.ga/9a61615d-a910-4a6b-96fa-736a6a6c4faf
   ID: **9a61615d-a910-4a6b-96fa-736a6a6c4faf**
 </details>
-```js
-javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
-```
